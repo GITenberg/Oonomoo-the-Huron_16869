@@ -1,0 +1,32 @@
+_repo: Oonomoo-the-Huron_16869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Ohio -- Fiction'
+- !lcsh 'Wyandot Indians -- Fiction'
+- !lcc 'PS'
+title: Oonomoo the Huron
+url: http://www.gutenberg.org/ebooks/16869
